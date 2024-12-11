@@ -1,5 +1,4 @@
 # PrePostSeg
-Pre-processing and post-processing for medical image segmentation
+Pre-processing and post-processing scripts for medical image analysis
 
-This repository is noly for personal use. 
-The document is not clean and clear up to now.
+This repository is noly for personal use. There is no plan to write a detailed README file. 
